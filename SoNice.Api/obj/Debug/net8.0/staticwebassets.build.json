@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "v+nBMbhInrHLKorWpkQO9oJcMl0CKY8h5nUuZmHAAcI=",
+  "Source": "SoNice.Api",
+  "BasePath": "_content/SoNice.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

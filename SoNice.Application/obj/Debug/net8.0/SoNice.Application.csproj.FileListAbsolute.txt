@@ -1,0 +1,16 @@
+D:\Work\SoNice\SoNice_C#\SoNice.Application\bin\Debug\net8.0\SoNice.Application.deps.json
+D:\Work\SoNice\SoNice_C#\SoNice.Application\bin\Debug\net8.0\SoNice.Application.dll
+D:\Work\SoNice\SoNice_C#\SoNice.Application\bin\Debug\net8.0\SoNice.Application.pdb
+D:\Work\SoNice\SoNice_C#\SoNice.Application\bin\Debug\net8.0\SoNice.Domain.dll
+D:\Work\SoNice\SoNice_C#\SoNice.Application\bin\Debug\net8.0\SoNice.Domain.pdb
+D:\Work\SoNice\SoNice_C#\SoNice.Application\obj\Debug\net8.0\SoNice.Application.csproj.AssemblyReference.cache
+D:\Work\SoNice\SoNice_C#\SoNice.Application\obj\Debug\net8.0\SoNice.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\SoNice\SoNice_C#\SoNice.Application\obj\Debug\net8.0\SoNice.Application.AssemblyInfoInputs.cache
+D:\Work\SoNice\SoNice_C#\SoNice.Application\obj\Debug\net8.0\SoNice.Application.AssemblyInfo.cs
+D:\Work\SoNice\SoNice_C#\SoNice.Application\obj\Debug\net8.0\SoNice.Application.csproj.CoreCompileInputs.cache
+D:\Work\SoNice\SoNice_C#\SoNice.Application\obj\Debug\net8.0\SoNice.Application.sourcelink.json
+D:\Work\SoNice\SoNice_C#\SoNice.Application\obj\Debug\net8.0\SoNice.Application.dll
+D:\Work\SoNice\SoNice_C#\SoNice.Application\obj\Debug\net8.0\refint\SoNice.Application.dll
+D:\Work\SoNice\SoNice_C#\SoNice.Application\obj\Debug\net8.0\SoNice.Application.pdb
+D:\Work\SoNice\SoNice_C#\SoNice.Application\obj\Debug\net8.0\ref\SoNice.Application.dll
+D:\Work\SoNice\SoNice_C#\SoNice.Application\obj\Debug\net8.0\SoNice.Application.csproj.CopyComplete

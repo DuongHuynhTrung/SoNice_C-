@@ -1,0 +1,13 @@
+D:\Work\SoNice\SoNice_C#\SoNice.Domain\bin\Debug\net8.0\SoNice.Domain.deps.json
+D:\Work\SoNice\SoNice_C#\SoNice.Domain\bin\Debug\net8.0\SoNice.Domain.dll
+D:\Work\SoNice\SoNice_C#\SoNice.Domain\bin\Debug\net8.0\SoNice.Domain.pdb
+D:\Work\SoNice\SoNice_C#\SoNice.Domain\obj\Debug\net8.0\SoNice.Domain.csproj.AssemblyReference.cache
+D:\Work\SoNice\SoNice_C#\SoNice.Domain\obj\Debug\net8.0\SoNice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\SoNice\SoNice_C#\SoNice.Domain\obj\Debug\net8.0\SoNice.Domain.AssemblyInfoInputs.cache
+D:\Work\SoNice\SoNice_C#\SoNice.Domain\obj\Debug\net8.0\SoNice.Domain.AssemblyInfo.cs
+D:\Work\SoNice\SoNice_C#\SoNice.Domain\obj\Debug\net8.0\SoNice.Domain.csproj.CoreCompileInputs.cache
+D:\Work\SoNice\SoNice_C#\SoNice.Domain\obj\Debug\net8.0\SoNice.Domain.sourcelink.json
+D:\Work\SoNice\SoNice_C#\SoNice.Domain\obj\Debug\net8.0\SoNice.Domain.dll
+D:\Work\SoNice\SoNice_C#\SoNice.Domain\obj\Debug\net8.0\refint\SoNice.Domain.dll
+D:\Work\SoNice\SoNice_C#\SoNice.Domain\obj\Debug\net8.0\SoNice.Domain.pdb
+D:\Work\SoNice\SoNice_C#\SoNice.Domain\obj\Debug\net8.0\ref\SoNice.Domain.dll

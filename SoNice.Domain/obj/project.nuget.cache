@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "d0ml6suhD3aWntv3BiXDy3ot7Jlvf1c1XC3GqW+sarBfkSs0F/DTUGvnwimlLwc6LLYijX1wPMT7IRntvbyB8w==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\SoNice\\SoNice_C#\\SoNice.Domain\\SoNice.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Duong_Huynh\\.nuget\\packages\\mongodb.bson\\2.22.0\\mongodb.bson.2.22.0.nupkg.sha512",
+    "C:\\Users\\Duong_Huynh\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Duong_Huynh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
