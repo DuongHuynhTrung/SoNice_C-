@@ -364,6 +364,9 @@ FodyWeavers.xsd
 !/SoNice.Api/appsettings.Template.json
 !/SoNice.Api/appsettings.Development.json
 
+# Ignore appsettings.json in bin folders (build output)
+**/bin/**/appsettings.json
+
 # User-specific files
 *.rsuser
 *.suo
